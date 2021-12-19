@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/PopupSilverlight/obj/Debug
+/PopupSilverlight/Bin/Debug
+/PopupSilverlight.Web/obj/Debug
+/PopupSilverlight.Web/bin
